@@ -1,6 +1,6 @@
 # 🛒 React E-Commerce Website
 
-A responsive e-commerce web application built using **React** that allows users to browse products, add items to cart, and manage shopping flow efficiently.
+A responsive e-commerce web application built using React and Redux, enabling product browsing, cart management, and efficient state handling with a reusable component architecture.
 
 ---
 
